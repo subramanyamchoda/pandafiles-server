@@ -1,6 +1,6 @@
 # 🐼 PandaFile Server
 
-**PandaFile Server** is the backend API service for the [PandaFile](https://pandafiles.vercel.app/) platform. It powers secure file uploads, downloads, user authentication (Google OAuth), and integration with cloud storage systems like AWS S3.
+**PandaFile Server** is the backend API service for the [PandaFile](https://pandafiles.vercel.app/) platform. It powers secure file uploads, downloads, user authentication (Google OAuth).
 
 ---
 

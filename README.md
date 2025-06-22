@@ -1,1 +1,1 @@
-# pandafiles-server
+# files-server
